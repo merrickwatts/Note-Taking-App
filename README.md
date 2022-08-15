@@ -7,7 +7,6 @@ Simple note is an app that lets you organize your thoughts into different notes 
 ## Table of Contents
 
 -[Installation](#installation)  
- -[Usage](#usage)  
  -[License](#license)  
  -[Contributing](#contributing)  
  -[Tests](#tests)  
@@ -15,11 +14,7 @@ Simple note is an app that lets you organize your thoughts into different notes 
 
 ## Installation
 
-This project can be installed from its
-
-## Usage
-
-GitHub repo.
+This project can be installed from its GitHub repo.
 
 ## Tests
 
